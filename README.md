@@ -1,1 +1,2 @@
-# PHP-debugger $_$
+# PHP-debugger
+cc debug.c && ./a.out
